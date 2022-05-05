@@ -1,3 +1,3 @@
 # yweb
 
-https://github.com/sanmathew1903/yweb.git
+https://sanmathew1903.github.io/yweb/
